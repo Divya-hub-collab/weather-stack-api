@@ -1,7 +1,7 @@
+<<<<<<< HEAD
 # weather-stack-api
-
 Weatherstack is a RESTful weather service that provides current weather data, forecasts, and historical weather information for locations worldwide in JSON format.
-
+=======
 # WeatherStack Weather App
 
 A beautiful React application that fetches and displays weather data from the Weatherstack API. Features include current weather, historical weather, and marine weather with a stunning glass morphic design.
@@ -79,3 +79,4 @@ src/
 ## License
 
 This project is open source and available under the MIT License.
+>>>>>>> 6207b5d (Initial commit)>>>>>>> 6207b5d (Initial commit)
